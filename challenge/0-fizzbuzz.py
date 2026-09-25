@@ -1,9 +1,7 @@
-```python
 #!/usr/bin/python3
 """ FizzBuzz
 """
 import sys
-
 
 def fizzbuzz(n):
     """
@@ -41,5 +39,5 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-```
+
 
